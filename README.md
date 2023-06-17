@@ -192,9 +192,9 @@ TempAndHumidity  data = dhtSensor.getTempAndHumidity();
 ## Paso 2 
 
 2. Instalar las librerias
-   2.1  **DHT sensor library for ESPx** 
-   2.2  **ArduinoJson**
-   2.3  **PubSubClient**
+   **DHT sensor library for ESPx** 
+   **ArduinoJson**
+   **PubSubClient**
 
 Como se muestra en la siguente imagen.
 
@@ -220,13 +220,36 @@ c) Conexión pin 3 (pin 15)
 
 ![](https://github.com/DulceMRZ/PRACTICA_1_DHT22/blob/main/Practica_1_DTH22%20diagrama..png?raw=true)
 
-### 5. Instrucciónes de operación
+
+
+
+
+
+
+d) Corrobora que el simulador compile bien el programa 
+
+![](https://github.com/DulceMRZ/Practica_6_Conexion_ESP32_NODE_RED/blob/main/Datos%20Repositorios%20-%20Hojas%20de%20c%C3%A1lculo%20de%20Google%20-%20Google%20Chrome%2016_06_2023%2008_54_15%20p.%20m..png?raw=true)
+
+
+### 5. Conexión de Node - Red
+
+
+
+
+
+
+
+
+
+
+
+### 6. Instrucciónes de operación
 
 1. Iniciar simulador.
 2. Visualizar los datos en el monitor serial.
 3. Colocar la temperatura y humedad dando *doble click* al sensor **DHT11** 
 
-## 6. Resultados
+## 7. Resultados
 
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
 
