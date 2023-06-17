@@ -253,7 +253,7 @@ d) Corrobora que el simulador compile bien el programa
 
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
 
-![](https://github.com/DulceMRZ/PRACTICA_1_DHT22/blob/main/New%20ESP32%20Project%20-%20Wokwi%20Simulator%20-%20Google%20Chrome%2009_06_2023%2009_34_27%20p.%20m..png?raw=true)
+![]()
 
 
 # Créditos
