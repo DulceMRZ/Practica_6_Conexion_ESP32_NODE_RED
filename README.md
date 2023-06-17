@@ -187,12 +187,18 @@ TempAndHumidity  data = dhtSensor.getTempAndHumidity();
     client.publish("dulce/tokai", output.c_str());
   }
 }
-´´´´
+```
+
 ## Paso 2 
 
-2. Instalar la libreria de **DHT sensor library for ESPx** como se muestra en la siguente imagen.
+2. Instalar las librerias
+   2.1  **DHT sensor library for ESPx** 
+   2.2  **ArduinoJson**
+   2.3  **PubSubClient**
 
-![](https://github.com/DulceMRZ/PRACTICA_1_DHT22/blob/main/Practica_1_DTH11%20-%20Wokwi%20ESP32,%20STM32,%20Arduino%20Simulator%20-%20Google%20Chrome%2009_06_2023%2008_50_46%20p.%20m..png?raw=true)
+Como se muestra en la siguente imagen.
+
+![](https://github.com/DulceMRZ/Practica_6_Conexion_ESP32_NODE_RED/blob/main/Captura%201.PNG?raw=true)
 
 ## Paso 3
 
